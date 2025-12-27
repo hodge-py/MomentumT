@@ -1,0 +1,642 @@
+Company Name,Ticker Symbol,Category,Sector
+Royal Bank of Canada,RY.TO,Large,Financials
+Toronto-Dominion Bank,TD.TO,Large,Financials
+Shopify Inc.,SHOP.TO,Large,Technology
+Enbridge Inc.,ENB.TO,Large,Energy
+Canadian National Railway,CNR.TO,Large,Industrials
+Canadian Natural Resources,CNQ.TO,Large,Energy
+Brookfield Corporation,BN.TO,Large,Financials
+Bank of Montreal,BMO.TO,Large,Financials
+Bank of Nova Scotia,BNS.TO,Large,Financials
+Canadian Pacific Kansas City,CP.TO,Large,Industrials
+Constellation Software,CSU.TO,Large,Technology
+Alimentation Couche-Tard,ATD.TO,Large,Consumer
+Suncor Energy Inc.,SU.TO,Large,Energy
+Manulife Financial,MFC.TO,Large,Financials
+Waste Connections Inc.,WCN.TO,Large,Industrials
+Nutrien Ltd.,NTR.TO,Large,Materials
+TC Energy Corp,TRP.TO,Large,Energy
+Sun Life Financial,SLF.TO,Large,Financials
+Canadian Imperial Bank of Commerce,CM.TO,Large,Financials
+Barrick Gold Corp,ABX.TO,Large,Materials
+Intact Financial Corp,IFC.TO,Large,Financials
+Franco-Nevada Corp,FNV.TO,Large,Materials
+Agnico Eagle Mines,AEM.TO,Large,Materials
+National Bank of Canada,NA.TO,Large,Financials
+Cenovus Energy Inc.,CVE.TO,Large,Energy
+Fortis Inc.,FTS.TO,Large,Utilities
+TELUS Corporation,T.TO,Large,Communications
+BCE Inc.,BCE.TO,Large,Communications
+Wheaton Precious Metals,WPM.TO,Large,Materials
+Restaurant Brands International,QSR.TO,Large,Consumer
+Dollarama Inc.,DOL.TO,Large,Consumer
+CGI Inc.,GIB-A.TO,Large,Technology
+Thomson Reuters,TRI.TO,Large,Industrials
+WSP Global Inc.,WSP.TO,Large,Industrials
+Loblaw Companies Ltd.,L.TO,Large,Consumer
+Pembina Pipeline Corp,PPL.TO,Large,Energy
+Rogers Communications,RCI-B.TO,Large,Communications
+Teck Resources,TECK-B.TO,Large,Materials
+First Quantum Minerals,FM.TO,Large,Materials
+Tourmaline Oil Corp,TOU.TO,Large,Energy
+Imperial Oil Limited,IMO.TO,Large,Energy
+Cameco Corporation,CCO.TO,Large,Energy
+Hydro One Limited,H.TO,Large,Utilities
+Metro Inc.,MRU.TO,Large,Consumer
+Fairfax Financial,FFH.TO,Large,Financials
+Saputo Inc.,SAP.TO,Mid,Consumer
+West Fraser Timber,WFG.TO,Mid,Materials
+Gildan Activewear,GIL.TO,Mid,Consumer
+Kinross Gold Corp,K.TO,Mid,Materials
+Emera Inc.,EMA.TO,Mid,Utilities
+Algonquin Power,AQN.TO,Mid,Utilities
+Keyera Corp,KEY.TO,Mid,Energy
+ARC Resources Ltd.,ARX.TO,Mid,Energy
+Open Text Corp,OTEX.TO,Mid,Technology
+BlackBerry Limited,BB.TO,Mid,Technology
+Air Canada,AC.TO,Mid,Industrials
+CAE Inc.,CAE.TO,Mid,Industrials
+Magna International,MG.TO,Mid,Consumer
+Linamar Corporation,LNR.TO,Mid,Consumer
+George Weston Ltd.,WN.TO,Mid,Consumer
+Empire Company Ltd.,EMP-A.TO,Mid,Consumer
+Canadian Tire,CTC-A.TO,Mid,Consumer
+Great-West Lifeco,GWO.TO,Mid,Financials
+Power Corp of Canada,POW.TO,Mid,Financials
+IA Financial Group,IAG.TO,Mid,Financials
+TMX Group Ltd.,X.TO,Mid,Financials
+Element Fleet Mgmt,EFN.TO,Mid,Industrials
+Stantec Inc.,STN.TO,Mid,Industrials
+Finning International,FTT.TO,Mid,Industrials
+Toromont Industries,TIH.TO,Mid,Industrials
+RB Global Inc.,RBA.TO,Mid,Industrials
+TFI International,TFII.TO,Mid,Industrials
+Boyd Group Services,BYD.TO,Mid,Industrials
+AtkinsRealis Group,ATRL.TO,Mid,Industrials
+Bombardier Inc.,BBD-B.TO,Mid,Industrials
+Stella-Jones Inc.,SJ.TO,Mid,Materials
+Lundin Mining Corp,LUN.TO,Mid,Materials
+Ivanhoe Mines Ltd.,IVN.TO,Mid,Materials
+Pan American Silver,PAAS.TO,Mid,Materials
+B2Gold Corp,BTO.TO,Mid,Materials
+Centerra Gold Inc.,CG.TO,Mid,Materials
+Eldorado Gold Corp,ELD.TO,Mid,Materials
+Osisko Gold Royalties,OR.TO,Mid,Materials
+Capstone Copper,CS.TO,Mid,Materials
+FirstService Corp,FSV.TO,Mid,Real Estate
+Colliers International,CIGI.TO,Mid,Real Estate
+Can. Apartment REIT,CAR-UN.TO,Mid,Real Estate
+RioCan REIT,REI-UN.TO,Mid,Real Estate
+Granite REIT,GRT-UN.TO,Mid,Real Estate
+Choice Properties REIT,CHP-UN.TO,Mid,Real Estate
+H&R REIT,HR-UN.TO,Mid,Real Estate
+Allied Properties REIT,AP-UN.TO,Mid,Real Estate
+Dream Industrial REIT,DIR-UN.TO,Mid,Real Estate
+SmartCentres REIT,SRU-UN.TO,Mid,Real Estate
+NorthWest Healthcare REIT,NWH-UN.TO,Mid,Real Estate
+iShares S&P/TSX 60,XIU.TO,ETF,Diversified
+BMO TSX Composite,ZCN.TO,ETF,Diversified
+Vanguard FTSE Canada,VCE.TO,ETF,Diversified
+Aecon Group Inc.,ARE.TO,Small,Industrials
+Alamos Gold Inc.,AGI.TO,Small,Materials
+Altius Minerals,ALS.TO,Small,Materials
+AltaGas Ltd.,ALA.TO,Mid,Energy
+Aritzia Inc.,ATZ.TO,Small,Consumer
+Artis REIT,AX-UN.TO,Small,Real Estate
+Athabasca Oil Corp,ATH.TO,Small,Energy
+Aura Minerals Inc.,ORA.TO,Small,Materials
+Aurora Cannabis Inc.,ACB.TO,Small,Healthcare
+Badger Infrastructure,BDGI.TO,Small,Industrials
+Birchcliff Energy,BIR.TO,Small,Energy
+Boardwalk REIT,BEI-UN.TO,Small,Real Estate
+Boralex Inc.,BLX.TO,Small,Utilities
+Brookfield Renewable,BEP-UN.TO,Mid,Utilities
+Canaccord Genuity,CF.TO,Small,Financials
+Canfor Corporation,CFP.TO,Small,Materials
+Capital Power Corp,CPX.TO,Small,Utilities
+Cascades Inc.,CAS.TO,Small,Materials
+Celestica Inc.,CLS.TO,Small,Technology
+Cogeco Comm.,CCA.TO,Small,Communications
+Corus Entertainment,CJR-B.TO,Small,Communications
+Crescent Point Energy,CPG.TO,Small,Energy
+Cronos Group Inc.,CRON.TO,Small,Healthcare
+Dye & Durham Ltd.,DND.TO,Small,Technology
+Enerplus Corp,ERF.TO,Small,Energy
+Enghouse Systems,ENGH.TO,Small,Technology
+Exchange Income Corp,EIF.TO,Small,Industrials
+Gibson Energy Inc.,GEI.TO,Small,Energy
+HLS Therapeutics,HLS.TO,Small,Healthcare
+Interfor Corp,IFP.TO,Small,Materials
+Jamieson Wellness,JWEL.TO,Small,Consumer
+Kelt Exploration,KEL.TO,Small,Energy
+Killam Apartment REIT,KMP-UN.TO,Small,Real Estate
+Lightspeed Commerce,LSPD.TO,Small,Technology
+Mattr Corp.,MATR.TO,Small,Industrials
+Mullen Group Ltd.,MTL.TO,Small,Industrials
+Northland Power Inc.,NPI.TO,Small,Utilities
+NuVista Energy Ltd.,NVA.TO,Small,Energy
+Oceanagold Corp,OGC.TO,Small,Materials
+Parex Resources,PXT.TO,Small,Energy
+Parkland Corp,PKI.TO,Small,Energy
+Peyto Exploration,PEY.TO,Small,Energy
+Polaris Renewable,PIF.TO,Small,Utilities
+Precision Drilling,PD.TO,Small,Energy
+Premium Brands,PBH.TO,Small,Consumer
+Richelieu Hardware,RCH.TO,Small,Industrials
+Russel Metals Inc.,RUS.TO,Small,Industrials
+Savaria Corp,SIS.TO,Small,Industrials
+Secure Energy,SES.TO,Small,Energy
+Sienna Senior Living,SIA.TO,Small,Consumer
+Sleep Country Canada,ZZZ.TO,Small,Consumer
+Spin Master Corp.,TOY.TO,Small,Consumer
+Superior Plus Corp.,SPB.TO,Small,Energy
+Tamarack Valley Energy,TVE.TO,Small,Energy
+Torex Gold Resources,TXG.TO,Small,Materials
+Trilogy Metals Inc.,TMQ.TO,Small,Materials
+Vermilion Energy,VET.TO,Small,Energy
+Whitecap Resources,WCP.TO,Small,Energy
+Winpak Ltd.,WPK.TO,Small,Industrials
+A&W Food Services,AW-UN.TO,Small,Consumer
+Acadian Timber Corp,ADN.TO,Small,Materials
+Adentra Inc.,ADEN.TO,Small,Industrials
+ADF Group Inc.,DRX.TO,Small,Industrials
+Ag Growth Int.,AFN.TO,Small,Industrials
+AGF Management,AGF-B.TO,Small,Financials
+Ainsworth Lumber,ANS.TO,Small,Materials
+Aimia Inc.,AIM.TO,Small,Financials
+Akita Drilling,AKT-A.TO,Small,Energy
+Alacer Gold Corp,ASR.TO,Small,Materials
+Alaris Equity Partners,AD.TO,Small,Financials
+Algoma Steel Group,ASTL.TO,Small,Materials
+Allied Gold Corp,AAUC.TO,Small,Materials
+Alithya Group Inc.,ALYA.TO,Small,Technology
+Almonty Industries,AII.TO,Small,Materials
+Alpha Copper Corp,ALCU.TO,Small,Materials
+Altus Group Ltd.,AIF.TO,Small,Real Estate
+Americas Gold & Silver,USA.TO,Small,Materials
+Andlauer Healthcare,AND.TO,Small,Healthcare
+Andrew Peller Ltd.,ADW-A.TO,Small,Consumer
+Appili Therapeutics,APLI.TO,Small,Healthcare
+Aptose Biosciences,APS.TO,Small,Healthcare
+Aris Mining Corp,ARIS.TO,Small,Materials
+Argonaut Gold Inc.,AR.TO,Small,Materials
+Arrow Exploration,AXL.TO,Small,Energy
+Artis REIT,AX-UN.TO,Small,Real Estate
+Ascendant Resources,ASND.TO,Small,Materials
+Ascent Solar,ASNT.TO,Small,Technology
+Ascot Resources,AOT.TO,Small,Materials
+Aspenleaf Energy,ASL.TO,Small,Energy
+Atrium Mortgage,AI.TO,Small,Financials
+ATS Corporation,ATS.TO,Mid,Industrials
+Aura Minerals,ORA.TO,Small,Materials
+Auxly Cannabis,XLY.TO,Small,Healthcare
+Avicanna Inc.,AVCN.TO,Small,Healthcare
+Avino Silver & Gold,ASM.TO,Small,Materials
+Aya Gold & Silver,AYA.TO,Small,Materials
+B100 Capital,BONE.TO,Small,Financials
+B2Gold Corp,BTO.TO,Small,Materials
+Baby Gourmet,BBY.TO,Small,Consumer
+Ballard Power,BLDP.TO,Small,Energy
+Bank of Canada,BOC.TO,Large,Financials
+Base Carbon Inc.,BCBN.TO,Small,Financials
+Bausch Health,BHC.TO,Mid,Healthcare
+Baytex Energy,BTE.TO,Small,Energy
+Bear Creek Mining,BCM.TO,Small,Materials
+Bellevue Gold,BGL.TO,Small,Materials
+Belo Sun Mining,BSX.TO,Small,Materials
+Bengal Energy,BNG.TO,Small,Energy
+Big Rock Brewery,BR.TO,Small,Consumer
+Bitfarms Ltd.,BITF.TO,Small,Technology
+Black Diamond Group,BDI.TO,Small,Industrials
+Blue Chip Casino,BCH.TO,Small,Consumer
+Bluestone Resources,BSR.TO,Small,Materials
+Boardwalk REIT,BEI-UN.TO,Small,Real Estate
+Bombardier Inc.,BBD-A.TO,Mid,Industrials
+Bonterra Energy,BNE.TO,Small,Energy
+Boralex Inc.,BLX.TO,Small,Utilities
+Boyd Group Services,BYD.TO,Mid,Industrials
+Bridgeport Financial,BFT.TO,Small,Financials
+Bri-Chem Corp,BRY.TO,Small,Energy
+BriaCell Therapeutics,BCT.TO,Small,Healthcare
+Bridgemarq Real Estate,BRE.TO,Small,Real Estate
+Brookfield Asset Mgmt,BAM.TO,Large,Financials
+Brookfield Business,BBU-UN.TO,Mid,Industrials
+Brookfield Business Corp,BBUC.TO,Mid,Industrials
+Brookfield Infrastructure,BIPC.TO,Mid,Utilities
+Brookfield Renewable,BEPC.TO,Mid,Utilities
+Brookfield Wealth,BNW.TO,Mid,Financials
+BSR REIT,HOM-U.TO,Small,Real Estate
+BTB REIT,BTB-UN.TO,Small,Real Estate
+Burn-Stew Corp,BSC.TO,Small,Industrials
+Burcon NutraScience,BU.TO,Small,Materials
+C-COM Satellite,CMI.TO,Small,Technology
+Calfrac Well Services,CFW.TO,Small,Energy
+Calian Group Ltd.,CGY.TO,Small,Industrials
+Calibre Mining Corp,CXB.TO,Small,Materials
+Callidus Capital,CBL.TO,Small,Financials
+Calyx Bio-Ventures,CYX.TO,Small,Healthcare
+Canaccord Genuity,CF.TO,Small,Financials
+Canada Goose,GOOS.TO,Mid,Consumer
+Canadian General Inv.,CGI.TO,Small,Financials
+Canadian North Res.,CNL.TO,Small,Materials
+Canadian Overseas Pet.,XOP.TO,Small,Energy
+Canadian Premium Sand,CPS.TO,Small,Materials
+Canadian Utilities,CU.TO,Mid,Utilities
+Canadian Western Bank,CWB.TO,Mid,Financials
+Canacol Energy,CNE.TO,Small,Energy
+Canfor Pulp Products,CFX.TO,Small,Materials
+Cannington Global,CGP.TO,Small,Financials
+Canoe Mining,CAN.TO,Small,Materials
+Canopy Growth Corp,WEED.TO,Small,Healthcare
+Capital Power,CPX.TO,Mid,Utilities
+Capstone Copper,CS.TO,Mid,Materials
+Cardinal Energy,CJ.TO,Small,Energy
+CargoJet Inc.,CJT.TO,Mid,Industrials
+Cascades Inc.,CAS.TO,Small,Materials
+Cash Resources,CSH.TO,Small,Financials
+Cassiar Gold,GLDC.TO,Small,Materials
+Cathedral Energy,CET.TO,Small,Energy
+Cathay Forest,CFZ.TO,Small,Materials
+Cavendish Fin.,CVN.TO,Small,Financials
+CBRT Inc.,CBRT.TO,Small,Technology
+CCL Industries,CCL-B.TO,Mid,Materials
+Celestica Inc.,CLS.TO,Mid,Technology
+Cenovus Energy,CVE-WT.TO,Mid,Energy
+Centerra Gold,CG.TO,Mid,Materials
+Centric Health,CHH.TO,Small,Healthcare
+Century Global,CNT.TO,Small,Materials
+CERF Inc.,CFL.TO,Small,Industrials
+Ceridian HCM,CDAY.TO,Mid,Technology
+Cervus Equipment,CVL.TO,Small,Industrials
+CGI Inc.,GIB.TO,Large,Technology
+Champion Iron,CIA.TO,Mid,Materials
+Charlottes Web,CWEB.TO,Small,Healthcare
+Chartwell Retirement,CSH-UN.TO,Small,Real Estate
+Chesswood Group,CHW.TO,Small,Financials
+China Gold Intl,CGG.TO,Small,Materials
+Chorus Aviation,CHR.TO,Small,Industrials
+Cipher Pharmaceuticals,CPH.TO,Small,Healthcare
+Civeo Corp,CVEO.TO,Small,Industrials
+Clean Harbors,CLH.TO,Mid,Industrials
+Clean TeQ,CLQ.TO,Small,Materials
+CloudMD Software,DOC.TO,Small,Healthcare
+Co-Diagnostics,CODX.TO,Small,Healthcare
+Cobalt 27 Capital,KBLT.TO,Small,Materials
+Cogeco Inc.,CGO.TO,Small,Communications
+CoinSmart Fin.,SMRT.TO,Small,Technology
+Colabor Group,GCL.TO,Small,Consumer
+Collective Mining,CNL.TO,Small,Materials
+Colonial Coal,CAD.TO,Small,Materials
+Cominar REIT,CUF-UN.TO,Small,Real Estate
+Commerce Resources,CCE.TO,Small,Materials
+Compass Gold,CVB.TO,Small,Materials
+Computer Modelling,CMG.TO,Small,Technology
+Concordia Int.,CXR.TO,Small,Healthcare
+Condor Gold,COG.TO,Small,Materials
+Conifex Timber,CFF.TO,Small,Materials
+Copper Mountain,CMMC.TO,Small,Materials
+Coronado Steel,CRN.TO,Small,Materials
+Correvio Pharma,CORV.TO,Small,Healthcare
+Corus Entertainment,CJR-B.TO,Small,Communications
+Cott Corp,BCB.TO,Small,Consumer
+CounterPath Corp,PATH.TO,Small,Technology
+Coveo Solutions,CVO.TO,Small,Technology
+CPPIB Cap.,CPP.TO,Large,Financials
+Crane Co.,CR.TO,Mid,Industrials
+Crescita Health,CTX.TO,Small,Healthcare
+Crew Energy Inc.,CR.TO,Small,Energy
+Critical Elements,CRE.TO,Small,Materials
+Crombie REIT,CRR-UN.TO,Small,Real Estate
+Cronos Group,CRON.TO,Small,Healthcare
+Crown Capital,CRWN.TO,Small,Financials
+Crystal Peak,CP.TO,Small,Materials
+CST Trust,CST.TO,Small,Financials
+CT REIT,CRT-UN.TO,Small,Real Estate
+CubicFarm Systems,CUB.TO,Small,Technology
+Cumberland Res.,CLG.TO,Small,Materials
+Curaleaf Holdings,CURA.TO,Mid,Healthcare
+Cymat Tech,CYM.TO,Small,Industrials
+Cypherpunk Holdings,HODL.TO,Small,Technology
+D-Box Technologies,DBO.TO,Small,Technology
+Danavation Tech,DVN.TO,Small,Technology
+Data Communications,DCI.TO,Small,Industrials
+Datametrex AI,DM.TO,Small,Technology
+Decisive Dividend,DE.TO,Small,Financials
+DeepMarkit Corp,MKT.TO,Small,Technology
+Defiance Silver,DEF.TO,Small,Materials
+Delphi Energy,DEE.TO,Small,Energy
+Delta Resources,DLTA.TO,Small,Materials
+Deltion Inno.,DELT.TO,Small,Technology
+Denison Mines,DML.TO,Small,Materials
+Dentsply Sirona,XRAY.TO,Mid,Healthcare
+Dery Gold,DGC.TO,Small,Materials
+Descartes Systems,DSG.TO,Mid,Technology
+Desert Lion Energy,DLI.TO,Small,Materials
+Destiny Media,DSY.TO,Small,Technology
+Dexterra Group,DXT.TO,Small,Industrials
+Dialogue Health,DIAL.TO,Small,Healthcare
+Diamond Estates,DVE.TO,Small,Consumer
+Diamond Fields,DFR.TO,Small,Materials
+Digihost Tech,DGHI.TO,Small,Technology
+Digital Power,DPW.TO,Small,Technology
+DIRTT Environmental,DRT.TO,Small,Industrials
+Discovery Silver,DSV.TO,Small,Materials
+District Copper,DCOP.TO,Small,Materials
+Diversified Royalty,DIV.TO,Small,Financials
+Divestco Inc.,DVT.TO,Small,Energy
+Doman Building Mat.,DBM.TO,Small,Materials
+Dominion Diamond,DDC.TO,Small,Materials
+Dorel Industries,DII-B.TO,Small,Consumer
+Doubleview Gold,DBG.TO,Small,Materials
+Dream Office REIT,D-UN.TO,Small,Real Estate
+Dream Residential,DRR-U.TO,Small,Real Estate
+Dream Unlimited,DRM.TO,Small,Real Estate
+Drone Delivery Can.,FLT.TO,Small,Industrials
+Dundee Corp,DC-A.TO,Small,Financials
+Dundee Precious,DPM.TO,Small,Materials
+Dye & Durham,DND.TO,Mid,Technology
+Dynacor Gold,DNG.TO,Small,Materials
+Dynamic Tech,DTG.TO,Small,Technology
+Dynasty Gold,DYG.TO,Small,Materials
+E-L Financial,ELF.TO,Small,Financials
+Eagle Energy,EGL.TO,Small,Energy
+Eagle Plains,EPL.TO,Small,Materials
+EarthRenew Inc.,ERTH.TO,Small,Materials
+East Africa Metals,EAM.TO,Small,Materials
+Eastmain Resources,ER.TO,Small,Materials
+Eat Beyond Global,EATS.TO,Small,Consumer
+Echelon Financial,EFH.TO,Small,Financials
+Ecobalt Energy,ECS.TO,Small,Materials
+EcoSynthetix Inc.,ECO.TO,Small,Materials
+Ecuador Gold,EG.TO,Small,Materials
+Edgewater Wireless,YFI.TO,Small,Technology
+EFP Corp,EFP.TO,Small,Financials
+Eguana Tech,EGT.TO,Small,Technology
+Eldorado Gold,ELD.TO,Mid,Materials
+Electra Battery Met.,ELBM.TO,Small,Materials
+Element 25,E25.TO,Small,Materials
+Element Fleet,EFN.TO,Mid,Industrials
+Else Nutrition,BABY.TO,Small,Consumer
+Ely Gold Royalties,ELY.TO,Small,Materials
+Emanate Life,EMN.TO,Small,Healthcare
+Emera Inc.,EMA.TO,Mid,Utilities
+Empire Company,EMP-A.TO,Mid,Consumer
+Enami Corp,ENM.TO,Small,Financials
+Enbridge Inc.,ENB.TO,Large,Energy
+Enbridge Income Fund,ENF.TO,Mid,Energy
+Endeavour Mining,EDV.TO,Mid,Materials
+Endeavour Silver,EDR.TO,Small,Materials
+EnerDynamic Hybrid,EHW.TO,Small,Technology
+Enerflex Ltd.,EFX.TO,Small,Energy
+Energy Fuels,EFR.TO,Small,Materials
+Enerplus Corp,ERF.TO,Mid,Energy
+Enghouse Systems,ENGH.TO,Mid,Technology
+Enthusiast Gaming,EGLX.TO,Small,Communications
+EnWave Corp,ENW.TO,Small,Technology
+Epsilon Energy,EPS.TO,Small,Energy
+Equinox Gold,EQX.TO,Mid,Materials
+Equitable Group,EQB.TO,Mid,Financials
+Equity Metals,EQTY.TO,Small,Materials
+Erdene Resource,ERD.TO,Small,Materials
+Ero Copper Corp,ERO.TO,Mid,Materials
+Espey Mfg.,ESP.TO,Small,Industrials
+Essential Energy,ESN.TO,Small,Energy
+Ethos Gold,ECC.TO,Small,Materials
+Etrion Corp,ETX.TO,Small,Utilities
+Eupraxia Pharma,EPRX.TO,Small,Healthcare
+Euro Sun Mining,ESM.TO,Small,Materials
+Euro-Atlantic,EAU.TO,Small,Financials
+Eurogas International,EI.TO,Small,Energy
+Europe Oil & Gas,EOG.TO,Small,Energy
+Eurozinc Mining,EZM.TO,Small,Materials
+Evertz Tech,ET.TO,Small,Technology
+EVLO Digital,EVLO.TO,Small,Technology
+EVO Payments,EVOP.TO,Small,Technology
+Excellon Resources,EXN.TO,Small,Materials
+Exchange Income,EIF.TO,Mid,Industrials
+Exco Technologies,XTC.TO,Small,Industrials
+Exemplar Gold,EXM.TO,Small,Materials
+Exoma Energy,EXE.TO,Small,Energy
+Exonetic Tech,EXO.TO,Small,Technology
+Exton Resources,EXR.TO,Small,Materials
+Exxon Mobil,XOM.TO,Large,Energy
+Fabled Silver Gold,FCO.TO,Small,Materials
+Fairfax Financial,FFH.TO,Large,Financials
+Fairfax India,FIH-U.TO,Mid,Financials
+Falcon Gold,FG.TO,Small,Materials
+Falcon Oil & Gas,FO.TO,Small,Energy
+Faraday Copper,FDY.TO,Small,Materials
+Fatfish Group,FFG.TO,Small,Financials
+Fennec Pharma,FENC.TO,Small,Healthcare
+Fera Res.,FER.TO,Small,Materials
+Ferrexpo PLC,FXPO.TO,Small,Materials
+Fidelity Mid-Cap,FMC.TO,Small,Financials
+Fiera Capital,FSZ.TO,Small,Financials
+Fife Capital,FFE.TO,Small,Financials
+Filo Corp,FIL.TO,Mid,Materials
+Finlay Minerals,FYL.TO,Small,Materials
+Finning Intl,FTT.TO,Mid,Industrials
+Fire & Flower,FAF.TO,Small,Consumer
+First Mining Gold,FF.TO,Small,Materials
+First National Fin.,FN.TO,Small,Financials
+First Quantum,FM.TO,Large,Materials
+First West Red Lake,FWG.TO,Small,Materials
+FirstService Corp,FSV.TO,Large,Real Estate
+Fission Uranium,FCU.TO,Small,Materials
+Flagship Communities,MHC-U.TO,Small,Real Estate
+Flare Resources,FLR.TO,Small,Materials
+Fletcher Nickel,FL.TO,Small,Materials
+Flow Capital,FW.TO,Small,Financials
+Flower One,FONE.TO,Small,Healthcare
+Flowserve Corp,FLS.TO,Mid,Industrials
+Fluence Corp,FLC.TO,Small,Utilities
+Fluor Corp,FLR.TO,Mid,Industrials
+Flyht Aerospace,FLY.TO,Small,Industrials
+Fobi AI Inc.,FOBI.TO,Small,Technology
+Focus Graphite,FMS.TO,Small,Materials
+Fomento Economico,FEM.TO,Small,Consumer
+FoodCycle Sci.,FCS.TO,Small,Technology
+Foot Locker,FL.TO,Small,Consumer
+Ford Motor,F.TO,Large,Consumer
+Foremost Income Fund,FMO-UN.TO,Small,Energy
+Forent Energy,FEN.TO,Small,Energy
+Forest Gate,FGE.TO,Small,Materials
+Fortis Inc.,FTS.TO,Large,Utilities
+Fortuna Silver,FVI.TO,Small,Materials
+Fortune Minerals,FT.TO,Small,Materials
+Forum Energy,FMC.TO,Small,Materials
+Foundation Res.,FDN.TO,Small,Materials
+Fountain Asset,FA.TO,Small,Financials
+Four Star Met.,FSM.TO,Small,Materials
+Fralex Res.,FRA.TO,Small,Materials
+Franco-Nevada,FNV.TO,Large,Materials
+Fraser Papers,FPS.TO,Small,Materials
+Freegold Ventures,FVL.TO,Small,Materials
+Freehold Royalties,FRU.TO,Small,Energy
+Freestone Res.,FSR.TO,Small,Energy
+Freshpet Inc.,FRSH.TO,Small,Consumer
+Frontera Energy,FEC.TO,Small,Energy
+Frontier Lithium,FL.TO,Small,Materials
+Fura Gems,FURA.TO,Small,Materials
+Future Farm,FFT.TO,Small,Healthcare
+Future Generation,FGC.TO,Small,Financials
+Future Metals,FME.TO,Small,Materials
+G Mining Ventures,GMIN.TO,Small,Materials
+G&G Gold,GNG.TO,Small,Materials
+G-Med Corp,GMC.TO,Small,Healthcare
+Galiano Gold,GAU.TO,Small,Materials
+GameStop Corp,GME.TO,Mid,Consumer
+Garda World,GW.TO,Mid,Industrials
+Gateway Casinos,GWC.TO,Mid,Consumer
+Gatos Silver,GATO.TO,Small,Materials
+Gaucho Group,GAU.TO,Small,Consumer
+Gazprom PAO,GAZ.TO,Large,Energy
+GB Minerals,GBL.TO,Small,Materials
+GCAC Inc.,GCA.TO,Small,Financials
+Gear Energy,GXE.TO,Small,Energy
+Gen Restaurant,GEN.TO,Small,Consumer
+General Dynamics,GD.TO,Large,Industrials
+General Electric,GE.TO,Large,Industrials
+General Mills,GIS.TO,Large,Consumer
+General Motors,GM.TO,Large,Consumer
+Genesis Land Dev.,GDC.TO,Small,Real Estate
+Genie Energy,GNE.TO,Small,Utilities
+Genmab A/S,GMAB.TO,Mid,Healthcare
+Genworth MI Can.,MIC.TO,Mid,Financials
+George Weston,WN.TO,Large,Consumer
+Gerdau S.A.,GGB.TO,Large,Materials
+Gevo Inc.,GEVO.TO,Small,Energy
+GFL Environmental,GFL.TO,Mid,Industrials
+Gibraltar Industries,ROCK.TO,Mid,Industrials
+Gibson Energy,GEI.TO,Mid,Energy
+Giga Metals,GIGA.TO,Small,Materials
+Gildan Activewear,GIL.TO,Mid,Consumer
+Gilgamesh Res.,GGR.TO,Small,Materials
+Giyani Metals,EMM.TO,Small,Materials
+Glacier Media,GVC.TO,Small,Communications
+Gladstone Capital,GLAD.TO,Small,Financials
+Glencore PLC,GLEN.TO,Large,Materials
+Globestar Mining,GMI.TO,Small,Materials
+GoEasy Ltd.,GSY.TO,Mid,Financials
+Gold Bullion,GBB.TO,Small,Materials
+Gold Standard,GSV.TO,Small,Materials
+Gold Terra Res.,YGT.TO,Small,Materials
+Golden Arrow,GRG.TO,Small,Materials
+Golden Cross,GCR.TO,Small,Materials
+Golden Eagle,GEA.TO,Small,Materials
+Golden Minerals,AUMN.TO,Small,Materials
+Golden Star Res.,GSC.TO,Small,Materials
+Goldman Sachs,GS.TO,Large,Financials
+Goldmoney Inc.,XAU.TO,Small,Financials
+Goodfood Market,FOOD.TO,Small,Consumer
+Goodridge Res.,GDG.TO,Small,Materials
+Gopher Protocol,GOPH.TO,Small,Technology
+GoPro Inc.,GPRO.TO,Small,Technology
+Gran Tierra Energy,GTE.TO,Small,Energy
+Granite REIT,GRT-UN.TO,Mid,Real Estate
+Gray Rock Res.,GRK.TO,Small,Materials
+Great Basin Gold,GBG.TO,Small,Materials
+Great Bear Res.,GBR.TO,Small,Materials
+Great Canadian,GC.TO,Small,Consumer
+Great Panther,GPR.TO,Small,Materials
+Great-West Lifeco,GWO.TO,Large,Financials
+Green Organic,TGOD.TO,Small,Healthcare
+Greenspace Brand,JTR.TO,Small,Consumer
+Greenstar Gold,GGR.TO,Small,Materials
+Groundstar Res.,GSA.TO,Small,Energy
+Grow Solutions,GRSO.TO,Small,Technology
+Growmax Res.,GRO.TO,Small,Materials
+Grown Rogue,GRIN.TO,Small,Healthcare
+Grumman Corp,GMA.TO,Small,Industrials
+GT Gold Corp,GTT.TO,Small,Materials
+Guanajuato Silver,GSVR.TO,Small,Materials
+Guardian Capital,GCG.TO,Small,Financials
+Guess? Inc.,GES.TO,Small,Consumer
+GVIC Inc.,GVI.TO,Small,Communications
+H&R REIT,HR-UN.TO,Mid,Real Estate
+HLS Therapeutics,HLS.TO,Small,Healthcare
+Home Capital Group,HCG.TO,Mid,Financials
+Hudbay Minerals,HBM.TO,Mid,Materials
+Hydro One,H.TO,Large,Utilities
+IA Financial,IAG.TO,Large,Financials
+IAMGOLD Corp,IMG.TO,Mid,Materials
+Imperial Oil,IMO.TO,Large,Energy
+Intact Financial,IFC.TO,Large,Financials
+Interfor Corp,IFP.TO,Mid,Materials
+Ivanhoe Mines,IVN.TO,Large,Materials
+Jamieson Wellness,JWEL.TO,Mid,Consumer
+Kelt Exploration,KEL.TO,Small,Energy
+Keyera Corp,KEY.TO,Mid,Energy
+Kinross Gold,K.TO,Large,Materials
+Lightspeed Comm.,LSPD.TO,Mid,Technology
+Linamar Corp,LNR.TO,Mid,Consumer
+Loblaw Companies,L.TO,Large,Consumer
+Lundin Mining,LUN.TO,Large,Materials
+Magna International,MG.TO,Large,Consumer
+Manulife Financial,MFC.TO,Large,Financials
+Martinrea Intl,MRE.TO,Small,Consumer
+Mattr Corp,MATR.TO,Small,Industrials
+Methanex Corp,MX.TO,Mid,Materials
+Metro Inc.,MRU.TO,Large,Consumer
+Mullen Group,MTL.TO,Small,Industrials
+National Bank,NA.TO,Large,Financials
+New Gold Inc.,NGD.TO,Small,Materials
+Northland Power,NPI.TO,Mid,Utilities
+Nutrien Ltd.,NTR.TO,Large,Materials
+Onex Corp,ONEX.TO,Mid,Financials
+Open Text Corp,OTEX.TO,Large,Technology
+Osisko Mining,OSK.TO,Small,Materials
+Pan American Silver,PAAS.TO,Mid,Materials
+Parex Resources,PXT.TO,Mid,Energy
+Parkland Corp,PKI.TO,Mid,Energy
+Pason Systems,PSI.TO,Small,Energy
+Pembina Pipeline,PPL.TO,Large,Energy
+Peyto Exploration,PEY.TO,Small,Energy
+Power Corp,POW.TO,Large,Financials
+Precision Drilling,PD.TO,Small,Energy
+Premium Brands,PBH.TO,Mid,Consumer
+Quebecor Inc.,QBR-B.TO,Mid,Communications
+Restaurant Brands,QSR.TO,Large,Consumer
+Richelieu Hardware,RCH.TO,Small,Industrials
+RioCan REIT,REI-UN.TO,Mid,Real Estate
+Ritchie Bros,RBA.TO,Mid,Industrials
+Rogers Comm.,RCI-B.TO,Large,Communications
+Royal Bank,RY.TO,Large,Financials
+Russel Metals,RUS.TO,Small,Industrials
+Saputo Inc.,SAP.TO,Large,Consumer
+Savaria Corp,SIS.TO,Small,Industrials
+Scotiabank,BNS.TO,Large,Financials
+Seabridge Gold,SEA.TO,Small,Materials
+Secure Energy,SES.TO,Small,Energy
+Sienna Senior Living,SIA.TO,Small,Consumer
+SilverCrest Metals,SIL.TO,Small,Materials
+SmartCentres REIT,SRU-UN.TO,Mid,Real Estate
+SNC-Lavalin,ATRL.TO,Mid,Industrials
+Spin Master,TOY.TO,Small,Consumer
+Stantec Inc.,STN.TO,Mid,Industrials
+Stella-Jones,SJ.TO,Mid,Materials
+Sun Life Financial,SLF.TO,Large,Financials
+Suncor Energy,SU.TO,Large,Energy
+Superior Plus,SPB.TO,Small,Utilities
+TFI International,TFII.TO,Mid,Industrials
+TMX Group,X.TO,Large,Financials
+Toromont Industries,TIH.TO,Mid,Industrials
+Toronto-Dominion,TD.TO,Large,Financials
+Tourmaline Oil,TOU.TO,Large,Energy
+TransAlta Corp,TA.TO,Small,Utilities
+Tricon Residential,TCN.TO,Small,Real Estate
+Trisura Group,TSU.TO,Small,Financials
+Turquoise Hill,TRQ.TO,Mid,Materials
+Vermilion Energy,VET.TO,Small,Energy
+Wajax Corp,WJX.TO,Small,Industrials
+Waste Connections,WCN.TO,Large,Industrials
+Wesdome Gold,WDO.TO,Small,Materials
+West Fraser Timber,WFG.TO,Large,Materials
+Weston (George),WN.TO,Large,Consumer
+Wheaton Precious,WPM.TO,Large,Materials
+Whitecap Resources,WCP.TO,Mid,Energy
+Winpak Ltd.,WPK.TO,Small,Materials
+WSP Global,WSP.TO,Large,Industrials
+Yamana Gold,YRI.TO,Mid,Materials
+ZCL Composites,ZCL.TO,Small,Industrials
+Zenith Capital,ZEN.TO,Small,Financials
